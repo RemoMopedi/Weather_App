@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather App</title>
+    <link rel="stylesheet" href="src/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Weather in Your City</h1>
+      <label for="city">Enter your city:</label>
+      <input type="text" id="city" placeholder="Enter city name" />
+      <button id="getWeather">Get Weather</button>
+
+      <div id="weatherDisplay" class="hidden">
+        <h2 id="cityName"></h2>
+        <p>Current Weather: <span id="weather"></span></p>
+        <p>Popular Attractions:</p>
+        <ul id="attractions"></ul>
+        <p>Enjoy your day! 😊</p>
+      </div>
+    </div>
+    <footer>
+      <p>
+        Created by
+        <a href="linkedin.com/in/remoneilwe-mopedi-284b48159" target="_blank"
+          >Remo Mopedi</a
+        >
+        on
+        <a href="https://github.com/RemoMopedi" target="_blank">GitHub</a>
+        | Hosted by
+        <a href="https://app.netlify.com/teams/remomopedi/sites" target="_blank"
+          >Netlify</a
+        >
+      </p>
+    </footer>
+    <script src="src/index.js"></script>
+  </body>
+</html>
