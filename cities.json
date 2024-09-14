@@ -1,22 +1,42 @@
 {
-  "new york": {
-    "weather": "Cloudy, 18°C",
-    "attractions": [
-      "Statue of Liberty",
-      "Central Park",
-      "Empire State Building"
-    ]
-  },
-  "london": {
-    "weather": "Rainy, 12°C",
-    "attractions": ["Big Ben", "London Eye", "Tower of London"]
-  },
-  "paris": {
-    "weather": "Sunny, 22°C",
-    "attractions": ["Eiffel Tower", "Louvre Museum", "Notre Dame Cathedral"]
-  },
-  "tokyo": {
-    "weather": "Windy, 20°C",
-    "attractions": ["Tokyo Tower", "Shibuya Crossing", "Sensoji Temple"]
-  }
+    "new york": {
+        "weather": "Cloudy, 18°C",
+        "attractions": ["Statue of Liberty", "Central Park", "Empire State Building"]
+    },
+    "london": {
+        "weather": "Rainy, 12°C",
+        "attractions": ["Big Ben", "London Eye", "Tower of London"]
+    },
+    "paris": {
+        "weather": "Sunny, 22°C",
+        "attractions": ["Eiffel Tower", "Louvre Museum", "Notre Dame Cathedral"]
+    },
+    "tokyo": {
+        "weather": "Windy, 20°C",
+        "attractions": ["Tokyo Tower", "Shibuya Crossing", "Sensoji Temple"]
+    },
+    "sydney": {
+        "weather": "Sunny, 25°C",
+        "attractions": ["Sydney Opera House", "Bondi Beach", "Harbour Bridge"]
+    },
+    "dubai": {
+        "weather": "Hot, 38°C",
+        "attractions": ["Burj Khalifa", "Palm Jumeirah", "Dubai Mall"]
+    },
+    "rome": {
+        "weather": "Mild, 18°C",
+        "attractions": ["Colosseum", "Vatican Museums", "Trevi Fountain"]
+    },
+    "cairo": {
+        "weather": "Sunny, 30°C",
+        "attractions": ["Pyramids of Giza", "Sphinx", "Egyptian Museum"]
+    },
+    "rio de janeiro": {
+        "weather": "Humid, 27°C",
+        "attractions": ["Christ the Redeemer", "Sugarloaf Mountain", "Copacabana Beach"]
+    },
+    "moscow": {
+        "weather": "Cold, 5°C",
+        "attractions": ["Red Square", "Kremlin", "St. Basil's Cathedral"]
+    }
 }
